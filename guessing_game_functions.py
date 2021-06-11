@@ -1,6 +1,8 @@
 import collections
 import random
 
+
+##created hangman visuals
 def hangman_visual(tries_left):
     HANGMANPICS = ['''
     +---+
